@@ -8,8 +8,8 @@ let wordList = [
         hint: "tärkeät ihmiset (sana on englanniksi)"
     },
     {
-        word: "lintsi",
-        hint: "huvipuisto"
+        word: "tuuletin",
+        hint: "viilentää kesällä"
     },
     {
         word: "png",
@@ -36,8 +36,8 @@ let wordList = [
         hint: "Se on ihmisen paras ystävä ja usein lemmikkieläin"
     },
     {
-        word: "Sininen",
-        hint: "Tämä on yksi sateenkaaren väreistä."
+        word: "televisio",
+        hint: "Tästä katsotaan ohjelmia"
     },
     {
         word: "beatch",
