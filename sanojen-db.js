@@ -8,7 +8,7 @@ let wordList = [
         hint: "tärkeät ihmiset (sana on englanniksi)"
     },
     {
-        word: "tuuletin",
+        word: "jäätelö",
         hint: "viilentää kesällä"
     },
     {
@@ -20,8 +20,8 @@ let wordList = [
         hint: "Makeinen (sana on englanniksi)"
     },
     {
-        word: "laiva",
-        hint: "kulkuväline maiden välillä"
+        word: "auto",
+        hint: "kulkuväline"
     },
     {
         word: "kirja",
@@ -36,11 +36,23 @@ let wordList = [
         hint: "Se on ihmisen paras ystävä ja usein lemmikkieläin"
     },
     {
-        word: "televisio",
+        word: "tv",
         hint: "Tästä katsotaan ohjelmia"
     },
     {
         word: "beatch",
         hint: "Tämä on paikka, jossa meri tai järvi kohtaa maan. (sana on englanniksi)"
+    },
+    {
+        word: "kissa ",
+        hint: "Eläin joka juo maitoa"
+    },
+    {
+        word: "talo",
+        hint: "ihmiset asuvat näissä"
+    },
+    {
+        word: "tykkimaki",
+        hint: "huvipuisto"
     },
 ]
