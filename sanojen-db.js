@@ -20,7 +20,7 @@ let wordList = [
         hint: "Makeinen (sana on englanniksi)"
     },
     {
-        word: "Laiva",
+        word: "laiva",
         hint: "kulkuväline maiden välillä"
     },
     {
