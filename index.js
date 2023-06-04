@@ -18,7 +18,7 @@ function startNewGame(){
     const ranWord = wordList[Math.floor(Math.random() * wordList.length)];
     word = ranWord.word;
    
-    maxGuesses = word.length >= 5 ? 8 : 6;
+    maxGuesses = word.length >= 5 ? 5 : 6;
     incorrectLetters = [];
     correctLetters = [];
     hintTag.innerText = ranWord.hint;
